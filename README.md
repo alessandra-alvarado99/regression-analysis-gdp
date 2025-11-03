@@ -33,7 +33,8 @@ Each model represents the elasticity of GDP to a 1% change in the explanatory va
 
 ## Repository Contents
 
-- `Regression.R` – R script with all regression models, plots, and correlation analysis.  
+- `Regression.R` – R script with all regression models, plots, and correlation analysis.
+- 	`Regression_.R` - Updated the R script by adding log tranformations to the variables.
 - `Regression.xlsx` – Cleaned dataset combining GDP and energy sector indicators.  
 - `Results` – Folder containing visualizations and output summaries.
 
